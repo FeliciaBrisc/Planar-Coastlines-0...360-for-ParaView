@@ -3,7 +3,7 @@ The coastlines will usually have to be scaled and/or translated to match the pos
 of any dataset included in the ParaView project.
 
 The coastlines were generated with GMT in two versions: without rivers and with rivers, 
-each version at low, high, intermediate and full resolution. 
+each version at low, intermediate and high resolution. 
 
 The GMT poly files were converted to VTK with a modified version of
 Thorsten Becker's AWK script: gmtpoly2vtk.awk, 
