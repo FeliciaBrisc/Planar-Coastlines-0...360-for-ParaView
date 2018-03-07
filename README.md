@@ -1,6 +1,6 @@
 Planar coastlines (0...360) in VTK format that can be used with ParaView.
 The coastlines will usually have to be scaled and/or translated to match the position 
-of any dataset included in the ParaView project (see Example_Coastlines_Transformation.pdf).
+of any other dataset included in the ParaView project (see Example_Coastlines_Transformation.pdf).
 
 The coastlines were generated with GMT in two versions: 
 - without rivers (low, intermediate and high resolution) and 
